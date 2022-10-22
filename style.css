@@ -1,6 +1,10 @@
 *{
     margin: 0;
 }
+body{
+  width: 100vw;
+  height: 100vh;
+}
 header {
   padding: 2rem;
   background-color:purple;
@@ -18,4 +22,9 @@ ul {
   list-style:none;
   align-items: center;
   gap: .8rem;
+}
+#image_home{
+  margin-top: 1.5rem;
+  text-align: center;
+  justify-content: center;
 }
